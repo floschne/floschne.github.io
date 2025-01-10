@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-# Curriculum Vitae
-[You can download by current CV here](https://floschne.github.io/files/CV_January_2025.pdf)
+You can download by current CV [here](https://floschne.github.io/files/CV_January_2025.pdf)
