@@ -24,9 +24,9 @@ author:
   avatar: "profile.png"
   name: "Florian Schneider"
   pronouns: "he/him"
-  bio: "3rd and final year PhD Student researching on the applications and limitations of multimodal transformer encoder and decoder models."
+  bio: "3rd and final year PhD Student<br>Research on the applications and limitations of multimodal transformer encoder and decoder models."
   location: "Hamburg, Germany"
-  employer: "" #"Universität Hamburg"
+  employer: "Universität Hamburg"
   uri: "" # "https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/florian-schneider.html"
   email: "florian.schneider-1@uni-hamburg.de"
 
