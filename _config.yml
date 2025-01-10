@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "M.Sc."
+title: "Florian Schneider"
 title_separator: "-"
-name: &name "Flo(rian) Schneider"
-description: &description "personal description"
+name: &name "Florian Schneider"
+description: &description "3rd and final year PhD Student at the University of Hamburg"
 url: https://floschne.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "floschne/floschne.github.io"
@@ -22,19 +22,19 @@ repository: "floschne/floschne.github.io"
 author:
   # Biographic information
   avatar: "profile.png"
-  name: "Flo Schneider"
+  name: "Florian Schneider"
   pronouns: "he/him"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "3rd and final year PhD Student researching on the applications and limitations of multimodal transformer encoder and decoder models."
   location: "Hamburg, Germany"
-  employer: "Universität Hamburg"
-  uri: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/florian-schneider.html"
+  employer: "" #"Universität Hamburg"
+  uri: "" # "https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/florian-schneider.html"
   email: "florian.schneider-1@uni-hamburg.de"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
   googlescholar: "https://scholar.google.com/citations?user=dcM0VxcAAAAJ"
   orcid: "https://orcid.org/0000-0003-4141-1415"
-  semantic: "https://www.semanticscholar.org/author/Florian-Schneider/2188811641"
+  semantic: #"https://www.semanticscholar.org/author/Florian-Schneider/2188811641"
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate: # URL
 
