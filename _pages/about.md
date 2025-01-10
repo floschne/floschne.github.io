@@ -30,10 +30,10 @@ Multimodal Machine Learning, which is now my active research field.
 
 More specifically, I am interested in:
 
-    * Cross-Modal Information Retrieval and Representation Learning using multimodal transformer encoder models
-    * Large Multimodal Models (LMMs) for low-resource languages and underrepresented cultures
-    * Developing scientific tools and apps that work with multimodal data, such as text, image, audio, and video data.
-    * Applying Machine Learning in interdisciplinary projects, e.g., Digital Humanities (DH) or Computational Social Science, to enhance their research processes.
+- Cross-Modal Information Retrieval and Representation Learning using multimodal transformer encoder models
+- Large Multimodal Models (LMMs) for low-resource languages and underrepresented cultures
+- Developing scientific tools and apps that work with multimodal data, such as text, image, audio, and video data.
+- Applying Machine Learning in interdisciplinary projects, e.g., Digital Humanities (DH) or Computational Social Science, to enhance their research processes.
 
 ## Awards
 
