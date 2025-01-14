@@ -11,6 +11,7 @@ Hi, I'm Florian 👋🏼
 
 I'm a passionate computer scientist whose journey began back in 2005 when I first got in touch with archaic MS-DOS batch programming.
 16 years later, in the summer of 2021, I graduated with an M.Sc. at the University of Hamburg.
+
 Since October 2021, I started working as a research assistant at the [Language Technology (LT)](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) group under the supervision of [Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html).
 
 I started officially as a PhD Student in April 2024 and expect to graduate in the summer of 2025.
