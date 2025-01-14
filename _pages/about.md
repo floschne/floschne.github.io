@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Florian Schneider"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-Hi, I'm Flo!
+Hi, I'm Florian 👋🏼
 
 I'm a passionate computer scientist whose IT journey began back in 2005 when I first got in touch with archaic MS-DOS.
 16 years later, in the summer of 2021, I graduated as M.Sc. at the University of Hamburg.
-Since October 2021 I started working as a research assistant at the Language Technology (LT) group under the supervision of [Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html).
+Since October 2021 I started working as a research assistant at the [Language Technology (LT)](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) group under the supervision of [Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html).
 
 I started officially as a PhD Student in April 2024 and expect my graduation in summer 2025.
 
@@ -23,7 +23,7 @@ Alongside my academic work, I completed two PhD research internships in industry
 
 Recently, I started collaborating with [Anne Lauscher](https://scholar.google.com/citations?user=IbJS3UEAAAAJ&hl=en) and her Data Science group at the University of Hamburg on projects related to cultural bias in multimodal models.
 
-## Research Interests
+## Research Interests 🧐
 
 During my studies, I found keen interest and amazement in Natural Language Processing, Computer Vision, and the intersection of both:
 Multimodal Machine Learning, which is now my active research field.
@@ -35,7 +35,7 @@ More specifically, I am interested in:
 - Developing scientific tools and apps that work with multimodal data, such as text, image, audio, and video data.
 - Applying Machine Learning in interdisciplinary projects, e.g., Digital Humanities (DH) or Computational Social Science, to enhance their research processes.
 
-## Awards
+## Awards ✨
 
 ### GSCL 2021-2023 Award for The Best Master's Thesis
 
