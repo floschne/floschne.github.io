@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download by current CV [here](https://floschne.github.io/files/CV_January_2025.pdf)
+You can download by current CV [here](https://floschne.github.io/files/CV_February_2025.pdf)

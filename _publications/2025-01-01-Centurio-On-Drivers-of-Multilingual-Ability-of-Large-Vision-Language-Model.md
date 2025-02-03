@@ -6,7 +6,7 @@ excerpt: 'arXiv:2501.05122 [cs]'
 date: 2025-01-01
 venue: 'In the proceedings of arXiv'
 paperurl: 'http://arxiv.org/abs/2501.05122'
-citation: ' Gregor Geigle,  Florian Schneider,  Carolin Holtermann,  Chris Biemann,  Radu Timofte,  Anne Lauscher,  Goran Glavaš, &quot;Centurio: On Drivers of Multilingual Ability of Large Vision-Language Model.&quot; In the proceedings of arXiv, 2025.'
+citation: ' Gregor Geigle*,  Florian Schneider*,  Carolin Holtermann,  Chris Biemann,  Radu Timofte,  Anne Lauscher,  Goran Glavaš, &quot;Centurio: On Drivers of Multilingual Ability of Large Vision-Language Model.&quot; In the proceedings of arXiv, 2025.'
 ---
 arXiv:2501.05122 [cs]
 
